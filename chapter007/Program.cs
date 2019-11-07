@@ -12,6 +12,7 @@ namespace chapter007
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("hotfix : Hello World");
+            Console.WriteLine("hotfix : 2nd Hello World");
         }
     }
 }
