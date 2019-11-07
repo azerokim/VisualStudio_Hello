@@ -11,6 +11,7 @@ namespace chapter007
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("hotfix : Hello World");
         }
     }
 }
