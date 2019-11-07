@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter007", "chapter007\chapter007.csproj", "{4CCFD6C2-0758-4FB4-953B-DBB7F123B7B5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC9FA417-E369-4309-A1E7-43C8BF0B80A6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
